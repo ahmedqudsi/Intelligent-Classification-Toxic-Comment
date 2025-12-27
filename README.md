@@ -28,10 +28,10 @@ This project implements an end-to-end Natural Language Processing (NLP) system t
 ➢Performance evaluation and visualization<br>
 ➢Explainable AI analysis for interpretability<br>
 
-📊 Results
+# 📊 Results
 The experimental analysis shows that ensemble-based models, particularly Random Forest, achieve strong baseline performance across multiple metrics. Transformer-based models demonstrate improved contextual understanding, while explainable AI techniques enhance transparency in decision-making.
 
-▶️ How to Run
+# ▶️ How to Run
 
 Install the required dependencies:<br>
 pip install -r requirements.txt<br>
