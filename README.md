@@ -35,4 +35,3 @@ pip install -r requirements.txt<br>
 Execute the project using:<br>
 run.bat<br>
 Provide input comments via the CSV file or command line as configured.<br
-.docx / *.pdf – Research documentation
