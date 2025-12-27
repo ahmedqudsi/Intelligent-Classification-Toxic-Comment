@@ -34,7 +34,5 @@ Install the required dependencies:<br>
 pip install -r requirements.txt<br>
 Execute the project using:<br>
 run.bat<br>
-Provide input comments via the CSV file or command line as configured.<br>
-SCREENS.docx – Output screenshots
-
-*.docx / *.pdf – Research documentation
+Provide input comments via the CSV file or command line as configured.<br
+.docx / *.pdf – Research documentation
