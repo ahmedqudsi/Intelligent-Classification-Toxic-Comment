@@ -1,7 +1,4 @@
 # Context-Aware Harmful Language Detection System
-📌 Overview
-
-This project implements an end-to-end Natural Language Processing (NLP) system to automatically identify harmful or abusive language in social media comments. The system leverages classical machine learning algorithms, extended with transformer-based analysis and explainable AI techniques, to ensure both performance and transparency.
 
 # 🎯 Objectives
 
